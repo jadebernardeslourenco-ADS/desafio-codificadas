@@ -71,12 +71,15 @@ Eu usei o Gemini.
 ## Reflexão
  
 ### Dificuldades encontradas
-<!-- O que foi mais difícil? Entender o problema? Escrever o código? Usar o GitHub? -->
- 
+ Entender o problema foi um pouco mais difícil por ter que interpretá-lo imaginando como transformá-lo em código respeitando a todas as solicitações.
+ Como inicialmente realizei a instalação do Python pensando em usá-lo para escrever o código e depois mudei de ideia, também tive que utilizar o tempo para instalar o C no computador. 
  
 ### O que aprendi
-<!-- O que você aprendeu de novo com este desafio? Pode ser sobre programação, sobre usar IA, ou qualquer coisa. -->
+ Aprendi a criar portifólio no Github, realizar publicações no Linkedin, instalar e configurar programas no Linux.
+ Também aprendi que, apesar de querer tentar programar com uma nova linguagem, devemos primeiramente dominar a estrutura do código e ter experiência com a linguagem que já conhecemos (é como tentar dominar um novo idioma sem saber o nativo).
  
  
 ### Como foi a experiência?
-<!-- Conta um pouco como foi no geral. O que mais gostou? O que mudaria? -->
+ A experiência foi emocionante por me proporcionar a compreensão de como realmente funciona o trabalho de programação. 
+ Com essa oportunidade, consegui entender quais são as formas que posso usar para me aperfeiçoar na área.
+ Eu mudaria o prazo da entrega da atividade para um prazo mais longo (visando mais tempo e oportunidade de entrega de mais problemas, devido a necessidade de conciliação desse estudo com os demais compromissos do dia a dia). 
