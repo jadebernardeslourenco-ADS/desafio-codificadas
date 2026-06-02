@@ -6,25 +6,24 @@ Este repositório contém minha resolução para o desafio de programação prop
  
 ---
  
-## Problemas escolhidos
+## Problema escolhido
  
 | # | Nome do problema | Link | Dificuldade |
 |---|-----------------|------|-------------|
 | 1 | Yet Another Two Integers Problem | [Ver no Codeforces](https://codeforces.com/problemset/problem/1409/A) | 800 |
- 
-<!-- Remova as linhas dos problemas que não foram resolvidos caso tenha escolhido menos de 3.-->
  
 ---
  
 ## Problema 1 — [Yet Another Two Integers Problem]
  
 ### O que o problema pede?
-<!-- Explique com suas próprias palavras o que o problema pede. Não copie o enunciado. -->
+O problema é como se fosse um jogo onde é preciso descobrir quantos movimentos são necessários para que o valor de a seja o mesmo de b utilizando cálculos matemáticos.
  
  
 ### Como eu resolvi?
  Traduzi o texto do problema com a ajuda do tradutor da página da Codeforces, Google tradutor e Gemini.
  Em seguida, fiz a leitura e fui confirmando com a IA as informações que interpretei. 
+ Para resolver sem usar laços demorados, a estratégia foi calcular a distância absoluta entre os dois números e dividi-la pelo tamanho máximo do passo (10), utilizando um truque matemático para sempre arredondar o resultado para cima quando há resto.
  
  
 ### Código
@@ -51,8 +50,6 @@ int main() {
 ```
  
 ---
-
-<!-- Remova as linhas dos problemas que não foram resolvidos caso tenha escolhido menos de 3.-->
 
 ---
  
