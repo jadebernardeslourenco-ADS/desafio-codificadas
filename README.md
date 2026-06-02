@@ -32,16 +32,19 @@ O problema é como se fosse um jogo onde é preciso descobrir quantos movimentos
 #include <stdlib.h>
 
 int main() {
+    
+    // Variáveis necessárias para a resolução do problema
     int t, a, b, distancia;
     
-    scanf("%d", &t);
-    while (t--) {
-        scanf("%d %d", &a, &b);
+    scanf("%d", &t); // Lê a quantidade total de casos de teste
+    while (t--) { // Laço que repete o processo para cada caso de teste
+        scanf("%d %d", &a, &b); // Lê os valores de 'a' (início) e 'b' (alvo)
 
-        // 1. Faz a conta e guarda na variável distancia
+
+        // Faz a conta e guarda na variável distancia
         distancia = abs(a - b);
          
-        // 2. O printf mostra o resultado da fórmula matemática na tela
+        // O printf mostra o resultado da fórmula matemática na tela
         printf("%d\n", (distancia + 9) / 10); 
     }
     
