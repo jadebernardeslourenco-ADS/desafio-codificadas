@@ -23,7 +23,8 @@ Este repositório contém minha resolução para o desafio de programação prop
  
  
 ### Como eu resolvi?
-<!-- Descreva a estratégia que você usou. Por exemplo: ordenei a lista, filtrei os negativos, etc. -->
+ Traduzi o texto do problema com a ajuda do tradutor da página da Codeforces, Google tradutor e Gemini.
+ Em seguida, fiz a leitura e fui confirmando com a IA as informações que interpretei. 
  
  
 ### Código
@@ -61,7 +62,9 @@ int main() {
 Eu usei o Gemini. 
  
 **Como a IA te ajudou?**
-<!-- Descreva como você usou a IA no processo. Ela explicou o problema? Sugeriu uma estratégia? Ajudou a corrigir um erro? -->
+ Primeiramente utilizei a IA para decidir qual linguagem de programação usar para escrever o código, com o objetivo de efetuar o processo de forma mais direta e precisa (visando a programação feita por uma iniciante).
+ Ela me deu um exemplo de como escrever o comando int em Python, mas como tive mais contato com a linguagem C, optei por ela. 
+ Ela explicou o problema de forma geral e me auxiliou na construção do código com passo a passo, perguntando sobre qual estrutura eu pretendia usar e corrigindo erros conforme eu encaminhava os códigos atualizados.
  
 ---
  
